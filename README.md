@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Munim</h1>
-<h3 align="center">A passionate Web Dev Student from Pakistan</h3>
+<h3 align="center">A passionate Front End Web Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MBWwIbyR4Nj1tkvRfI0xNC2fEO43CIqxIg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-munim&label=Profile%20views&color=0e75b6&style=flat" alt="m-munim" /> </p>
 
